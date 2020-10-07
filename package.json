@@ -1,7 +1,7 @@
 {
-	"name": "sse-test",
+	"name": "express-watch-file",
 	"version": "1.0.0",
-	"description": "A test for SSE with NodeJS",
+	"description": "Watch file for changes and send SSE with express.",
 	"scripts": {
 		"start": "node index.js"
 	},
