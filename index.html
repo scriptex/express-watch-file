@@ -3,7 +3,5 @@
 <script>
 	var socket = io('http://localhost:5000');
 
-	socket.on('message', msg => {
-		console.log(msg);
-	});
+	socket.on('message', console.log);
 </script>
