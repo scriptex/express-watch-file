@@ -1,0 +1,9 @@
+<script src="node_modules/socket.io-client/dist/socket.io.js"></script>
+
+<script>
+	var socket = io('http://localhost:5000');
+
+	socket.on('message', msg => {
+		console.log(msg);
+	});
+</script>

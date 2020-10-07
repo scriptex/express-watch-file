@@ -1,19 +1,21 @@
 {
-    "name": "initial-commit",
-    "version": "1.0.0",
-    "description": "Starting template for repository",
-    "scripts": {},
-    "keywords": [],
-    "author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
-    "repository": "https://github.com/scriptex/initial-commit",
-    "bugs": {
-      "url": "https://github.com/scriptex/initial-commit/issues",
-      "email": "scriptex.bg@gmail.com"
-    },
-    "license": "MIT",
-    "dependencies": {},
-    "devDependencies": {},
-    "browserslist": [],
-    "main": "index.js",
-    "private": true
+	"name": "sse-test",
+	"version": "1.0.0",
+	"description": "A test for SSE with NodeJS",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"SSE"
+	],
+	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
+	"license": "MIT",
+	"dependencies": {
+		"chokidar": "3.4.2",
+		"express": "4.17.1",
+		"socket.io": "2.3.0"
+	},
+	"devDependencies": {},
+	"main": "index.js",
+	"private": true
 }
