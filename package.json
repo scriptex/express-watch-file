@@ -11,7 +11,7 @@
 	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
 	"license": "MIT",
 	"dependencies": {
-		"chokidar": "3.4.2",
+		"chokidar": "3.4.3",
 		"express": "4.17.1",
 		"socket.io": "2.3.0"
 	},
