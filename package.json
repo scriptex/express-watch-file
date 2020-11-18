@@ -13,7 +13,7 @@
 	"dependencies": {
 		"chokidar": "3.4.3",
 		"express": "4.17.1",
-		"socket.io": "3.0.1"
+		"socket.io": "3.0.2"
 	},
 	"devDependencies": {},
 	"main": "index.js",
