@@ -5,17 +5,13 @@
 	"scripts": {
 		"start": "node index.js"
 	},
-	"keywords": [
-		"SSE"
-	],
-	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
+	"author": "Atanas Atanasov <hi@atanas.info> (https://atanas.info)",
 	"license": "MIT",
 	"dependencies": {
 		"chokidar": "3.5.3",
 		"express": "4.18.1",
-		"socket.io": "4.5.1"
+		"socket.io": "4.5.2"
 	},
-	"devDependencies": {},
 	"main": "index.js",
 	"private": true
 }
