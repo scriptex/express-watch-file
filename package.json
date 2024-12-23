@@ -8,7 +8,7 @@
 	"author": "Atanas Atanasov <hi@atanas.info> (https://atanas.info)",
 	"license": "MIT",
 	"dependencies": {
-		"chokidar": "4.0.1",
+		"chokidar": "4.0.3",
 		"express": "4.21.2",
 		"socket.io": "4.8.1"
 	},
