@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"chokidar": "5.0.0",
-		"express": "5.2.0",
+		"express": "5.2.1",
 		"socket.io": "4.8.1"
 	},
 	"main": "index.js",
